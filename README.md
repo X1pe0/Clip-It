@@ -1,5 +1,7 @@
 # Clip-IT
 Create a screen grab using python and storing the image to your clipboard. 
+
+*IDEAS: Will eventually port this to upload to NaByte to essentily have a Gyazo clone. Also if you have zbar-tools installed, you can make this decode QR codes.*
 #### Resources needed:
 Python3 - pyscreenshot, tkinter, and pillow. 
 ## Screenshots
